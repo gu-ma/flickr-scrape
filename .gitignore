@@ -5,3 +5,5 @@ env/
 *.jpeg
 *.json
 .DS_Store
+credentials.json
+images
